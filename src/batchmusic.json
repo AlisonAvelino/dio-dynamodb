@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Djonga"},
+                  "SongTitle": {"S": "Leal"},
+                  "AlbumTitle": {"S": "Ladrão Live"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Djonga"},
+                  "SongTitle": {"S": "Falcão"},
+                  "AlbumTitle": {"S": "Ladrão"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Djonga"},
+                  "SongTitle": {"S": "Ladrão"},
+                  "AlbumTitle": {"S": "Ladrão Tour"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        }
+      ]
+}
